@@ -24,6 +24,9 @@ Jupyter Notebook
 ## Data Processing and Cleaning:
 
 OpenPyXL
+## Requirements
+Unzip green_tripdata_2021.zip  in /Alice/Resource 
+Note: green_tripdata_2021.csv file used by in Alice Resources folder has been zipped due size limitation
 
 ## Conclusion
 This project requires a combination of data analysis, clustering, and predictive modeling techniques to gain insights from the provided dataset. By leveraging Python and its associated libraries, such as Pandas, Scikit-learn, and Matplotlib, you can perform data analysis, identify traffic zones, and build predictive models to forecast taxi traffic, revenue, and profitability.
